@@ -12,6 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>&nbsp;My Links</h2>
+<a href="https://sabinoa.myportfolio.com/">
+  <img src="https://github.com/user-attachments/assets/537992bc-45db-44c2-9ec0-03b86a9897c9" alt="amonportfolio" width="45" height="45"/>
+</a>
+<a href="https://gus-drawing.itch.io/">
+  <img src="https://github.com/user-attachments/assets/f64969ba-cfbe-460a-bb95-2d1645211901" alt="itch" width="45" height="45"/>
+</a>
+<a href="https://www.instagram.com/gus_drawing/">
+  <img src="https://github.com/user-attachments/assets/1a8e932d-909f-4a8b-aa60-b7727bc23a48" alt="instagram" width="45" height="45"/>
+</a>
+<a href="https://www.linkedin.com/in/augustus-sabino">
+  <img src="https://github.com/user-attachments/assets/82224b3c-0b1b-4b4f-998c-9df6c49a9e98" alt="linkedin" width="45" height="45"/>
+</a>
+
 <h2>&nbsp;My Languages</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
