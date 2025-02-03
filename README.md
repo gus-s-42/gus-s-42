@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 <h2>&nbsp;My Stats (Public Repositories Only)</h2>
 <a href="https://github.com/gus-s-42/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=gus-s-42&hide=stars&theme=transparent&show_icons=true" alt="stats1" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gus-s-42&hide=stars&theme=transparent&show_icons=true" alt="stats1" width="50%"/>
 </a>
 <a href="https://github.com/gus-s-42/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42&size_weight=0.5&count_weight=0.5&theme=transparent&hide=html&layout=compact" alt="stats2" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42&size_weight=0.5&count_weight=0.5&theme=transparent&hide=html&layout=compact" alt="stats2" width="50%"/>
 </a>
