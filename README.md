@@ -66,8 +66,25 @@ Here are some ideas to get you started:
 
 <h2>&nbsp;My Stats (Public Repositories Only)</h2>
 <a href="https://github.com/gus-s-42/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=gus-s-42&hide=stars&theme=transparent&show_icons=true" alt="stats1" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gus-s-42&hide=stars&theme=transparent&show_icons=true" alt="stats1" width="49%" height="100%" align="middle"/>
 </a>
 <a href="https://github.com/gus-s-42/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42&size_weight=0.5&count_weight=0.5&theme=transparent&hide=html&layout=donut" alt="stats2" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42&size_weight=0.5&count_weight=0.5&theme=transparent&hide=html&layout=compact" alt="stats2" width="49%" height="40%" align="middle"/>
 </a>
+
+<h2>&nbsp;My Passtimes</h2>
+<h3>&nbsp;My Art</h3>
+
+<p align="left">
+<img src="https://github.com/user-attachments/assets/157e0ba1-d6b4-4bab-8b34-17f56c680013" alt="csharp" width="24%"/>
+<img src="https://github.com/user-attachments/assets/c5daa517-8855-4927-a56d-43e241cdcf50" alt="csharp" width="24%"/>
+<img src="https://github.com/user-attachments/assets/7705a67b-4669-42c0-8d47-885cf6da4fdf" alt="csharp" width="24%"/>
+<img src="https://github.com/user-attachments/assets/ffcdcbbd-4fda-4ac2-aa14-03666a6b1fd2" alt="csharp" width="24%"/>
+</p>
+
+<h3>&nbsp;My Favorite Games</h3>
+<p align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUzMms5NzRtcDZ1dTRlaHN0NDk0OG1xcm5jdW9odGNwM3A1bWh3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgsW0TunaB5hm25eUf/giphy.gif" alt="csharp" width="32%"/>
+<img src="https://media.giphy.com/media/l46CcnpJzfb6SfLbO/giphy.gif?cid=790b76119nskcymm4ejjnql8d7hhr4lxbdzq8qq45jzaky9y&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="csharp" width="32%"/>
+<img src="https://media.giphy.com/media/NL7pwToW0Plx6/giphy.gif?cid=790b76119g8jq3zataogxpddin9apyhksusxhkp6qts175l7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="csharp" width="32%"/>
+</p>
