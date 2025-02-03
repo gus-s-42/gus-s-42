@@ -69,5 +69,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=gus-s-42&hide=stars&theme=transparent&show_icons=true" alt="stats1" width="50%"/>
 </a>
 <a href="https://github.com/gus-s-42/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42&size_weight=0.5&count_weight=0.5&theme=transparent&hide=html&layout=conut" alt="stats2" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42&size_weight=0.5&count_weight=0.5&theme=transparent&hide=html&layout=donut" alt="stats2" width="50%"/>
 </a>
