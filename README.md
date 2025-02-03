@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Augustus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gus-s-42&hide=stars&theme=transparent&show_icons=true)](https://github.com/gus-s-42/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-42)](https://github.com/gus-s-42/github-readme-stats)
